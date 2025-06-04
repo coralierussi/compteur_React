@@ -9,7 +9,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'App React PWA',
+        name: "tata",
         icons: [
           {
             "src": "pwa-64x64.png",
